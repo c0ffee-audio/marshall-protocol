@@ -58,7 +58,7 @@ The modern Zound UUID suffix (`-1337-1dea-feed-c0ffee70c0de`) is an easter egg: 
 | GRAPHICAL_EQUALIZER | 000f | `0000000f-1337-1dea-feed-c0ffee70c0de` | `0000aa16-...` | Read/Write |
 | ANC_CONFIGURATION | 0013 | `00000013-1337-1dea-feed-c0ffee70c0de` | `0000aa20-...` | Read/Write/Notify |
 | TOUCH_LOCK | 0014 | `00000014-1337-1dea-feed-c0ffee70c0de` | `0000aa21-...` | Read/Write |
-| EQUALIZER_SETTINGS | 0017 | `00000017-1337-1dea-feed-c0ffee70c0de` | `0000aa25-...` | Read/Write |
+| EQUALIZER_SETTINGS | 0017 | `00000017-1337-1dea-feed-c0ffee70c0de` | `0000aa25-...` | Read/Write/Notify |
 | EQUALIZER_SETTINGS_CUSTOM_PRESET | 0018 | `00000018-1337-1dea-feed-c0ffee70c0de` | `0000aa26-...` | Read/Write |
 | ANC_TRANSPARENCY_VALUE | 0019 | `00000019-1337-1dea-feed-c0ffee70c0de` | `0000aa27-...` | Read/Write |
 | ANC_NOISE_CANCELLING_VALUE | 001a | `0000001a-1337-1dea-feed-c0ffee70c0de` | `0000aa28-...` | Read/Write |
